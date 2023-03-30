@@ -1,1 +1,6 @@
-# Advanced-Algorithms
+---
+description: Important
+---
+
+# Hashing
+
