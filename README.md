@@ -1,6 +1,4 @@
----
-description: Important
----
+Advanced Algorithms Course :
 
-# Hashing
+Questions related to Trees, Linked Lists
 
